@@ -3,7 +3,7 @@
 ## feature
 
 1. [x] syntax highlighting
-2. [x] auto complete
+2. [x] auto complete (Use 'Ctrl' key)
 3. [] show syntax error
 
 ## tech stack
