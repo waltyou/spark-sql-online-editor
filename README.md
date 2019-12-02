@@ -4,7 +4,7 @@
 
 1. [x] syntax highlighting
 2. [x] auto complete (Use 'Ctrl' key)
-3. [] show syntax error
+3. [ ] show syntax error
 
 ## tech stack
 
