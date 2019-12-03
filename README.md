@@ -29,4 +29,8 @@ npm run dev
 All feature's implement are base on [Codemirror](https://codemirror.net/).
 There already have "spark-sql" mode in [Codemirror sql mode](https://github.com/codemirror/CodeMirror/blob/master/mode/sql/sql.js).
 
-You can run this project and access 'localhost:8080/' to find the Spark-Sql editor.
+You can run this project and access 'http://localhost:8080' to find the Spark-Sql editor.
+
+### self defined word highlighting and autoComplete
+
+Try to access 'http://localhost:8080/#/selfsql' to figure out what happened.
