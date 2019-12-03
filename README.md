@@ -26,11 +26,14 @@ npm run dev
 
 ## Introduce
 
+### 1. Demo from official webset
+
 All feature's implement are base on [Codemirror](https://codemirror.net/).
 There already have "spark-sql" mode in [Codemirror sql mode](https://github.com/codemirror/CodeMirror/blob/master/mode/sql/sql.js).
 
 You can run this project and access 'http://localhost:8080' to find the Spark-Sql editor.
 
-### self defined word highlighting and autoComplete
+### 2. self defined word highlighting and autoComplete
 
-Try to access 'http://localhost:8080/#/selfsql' to figure out what happened.
+Try to access 'http://localhost:8080/#/selfsql' to see what happened. The implement you can find in `SelfsqlEditor.vue` and `selfsql.js`.
+

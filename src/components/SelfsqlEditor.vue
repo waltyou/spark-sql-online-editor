@@ -18,11 +18,10 @@ import 'codemirror/addon/hint/show-hint.js'
 import 'codemirror/addon/lint/lint.css'
 import 'codemirror/addon/lint/lint.js'
 
-// import 'codemirror/addon/hint/sql-hint.js'
 import '../selfsql/selfsql.js'
 
 export default {
-  name: 'SparksqlEditor',
+  name: 'SelfsqlEditor',
   data () {
     const code =
 `
