@@ -18,6 +18,9 @@ import 'codemirror/addon/hint/show-hint.js'
 import 'codemirror/addon/lint/lint.css'
 import 'codemirror/addon/lint/lint.js'
 
+import 'codemirror/addon/hint/sql-hint.js'
+import 'codemirror/mode/sql/sql.js'
+
 import '../selfsql/selfsql.js'
 
 export default {
