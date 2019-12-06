@@ -20,13 +20,14 @@ import 'codemirror/addon/lint/lint.js'
 
 import 'codemirror/addon/hint/sql-hint.js'
 import 'codemirror/mode/sql/sql.js'
+import '../sparkSql/sparksql-lint.js'
 
 export default {
   name: 'SparksqlEditor',
   data () {
     const code =
 `
-select a from b;
+selct a from b;
 `
     return {
       code,
