@@ -1,6 +1,6 @@
 # spark-sql-online-editor
 
-中文log介绍可以看[这里](https://waltyou.github.io/Spark-Sql-Online-Editor/)。
+中文介绍可以看[这里](https://waltyou.github.io/Spark-Sql-Online-Editor/)。
 
 ## Base info
 
